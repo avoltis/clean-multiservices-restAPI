@@ -1,0 +1,96 @@
+{
+  "data": {
+    "headerText": {
+      "title": "CLEAN MULTISERVICES",
+      "smallTitle": "IMPRESA DI PULIZIA DI AGOLLI ERIONA"
+    },
+    "mainPageText": {
+      "header": "MULTI SERVICES",
+      "mainSection": {
+        "title": "SPLENDORE VISIBILE",
+        "smallTitle": "PULITO PROFONDO",
+        "description": "Siamo orgogliosi della nostra squadra e comprendiamo le esigenze dei nostri clienti. Non solo il nostro servizio è eccezionale, ma fornisce anche prezzi accessibili - lo garantiamo!",
+        "contact": "Contattaci oggi!"
+      },
+      "mainPageFooterSection": {
+        "title": "A VOI",
+        "smallTitle": "LA NOSTRA PROMESSA",
+        "description": "Il nostro obiettivo è migliorare la vita dei nostri clienti. Forniamo servizi di pulizia d'élite progettati per mantenere la tua casa splendente e bella in modo che tu possa concentrarti su cose che contano di più, come la tua famiglia e gli amici."
+      }
+    },
+    "aboutPageText": {
+      "header": "CHI SIAMO",
+      "title": "RIGUARDO LA NOSTRA AZIENDA",
+      "smallTitle": "PULITO PROFONDO, SPLENDORE VISIBILE",
+      "descriptionPart1": "Clean Multiservices fornisce i migliori servizi a Rivoli (To) e nelle aree circostanti dal 11/01/2018. Prezzi equi, qualità superiore e un servizio clienti eccezionale sono garantiti quando lavori con noi. Fin dalla nostra fondazione, Clean Multiservices è nota per i suoi servizi di qualità, efficienza eccezionale e il più alto livello di professionalità. Indipendentemente dal servizio che stai cercando, ti garantiamo non solo soddisfare, ma superare le tue aspettative e garantire la tua piena soddisfazione. Il nostro team è pronto per ogni lavoro, gestendo progetti con le competenze e l'esperienza che i nostri clienti si aspettano. Si prega di mettersi in contatto per saperne di più sul nostro team, la nostra azienda o per i dettagli sui servizi che offriamo.",
+      "boldTextPart1": "Prodotti di pulizia:",
+      "boldTextPart1Description": "nostro carico ed a norma con le disposizioni in materia ecologica e sanitaria.",
+      "boldTextPart2": "Accesso ai locali:",
+      "boldTextPart2Description": "saranno messe a nostra disposizione le chiavi necessarie per l'accesso attraverso i vari portoncini nei locali condominiali.",
+      "descriptionPart2": "Teniamo ovviamente a precisare che tutto il personale è perfettamente in regola con le vigenti normative sanitarie e contributive e che l'azienda è perfettamente in regola sotto tutti gli aspetti legislativi compresa la nuova legge 81/2008 e relativa modifica n°106/2009 (ex 626) e che al momento dell'inizio dell'appalto Vi forniremo di tutta la documentazione in merito (valutazione dei rischi, schede tecniche prodotti, ecc.). Durante il periodo estivo l'impresa effettuerà 14 giorni di vacanze, le due settimane centrali di Agosto, lasciando invariato il compenso mensile. In caso di rescissione del contratto Vi chiediamo 30 giorni di preavviso che in caso di una nostra rinuncia sarà identico."
+    },
+    "productsPageText": {
+      "header": "PRODOTTI",
+      "mainSection": {
+        "title": "PULIZIA ORDINARIA",
+        "smallTitle": "SETTIMANALE",
+        "boldTextPart1": "- Primo passaggio",
+        "boldTextPart1Description": "Scopatura e lavaggio pavimenti intera scala, Pulizia portone ingresso e cassette portalettere, Battitura zerbini, Spolveratura davanzali scale e mancorrenti, Rimozione ragnatele, Pulizia cantine, Pulizia cortile condominiale.",
+        "boldTextPart2": "- Secondo passaggio",
+        "boldTextPart2Description": "Scopatura intera scala, Lavaggio pavimenti scala fino al primo piano, Pulizia portone ingresso e cassette portalettere, Battitura zerbini, Rimozione ragnatele, Scopatura cortile condominiale, Pulizia area ecologica."
+      },
+      "middleSection": {
+        "title": "PULIZIA ORDINARIA",
+        "smallTitle": "SEMESTRALE",
+        "boldTextPart1": "* Pulizia vetri scala interni, all'esterno se facilmente accessibili dall'interno",
+        "boldTextPart2": "* Pulizia plafoniere androne e ai pianerottoli se facilmente accessibili e smontabili"
+      },
+      "footerSection": {
+        "title": "ATRI SERVIZI",
+        "smallTitle": "SERVIZI AGGIUNTIVI",
+        "boldTextPart1": "* Disinfestazioni, disinfezioni e protezione aree verdi",
+        "boldTextPart2": "* Spalatura neve e spargimento del sale",
+        "boldTextPart3": "* Scopatura garage e rampa di acesso e rimozione ragnatele",
+        "description": "Per i servizi aggiuntivi siamo lieti di offrire una quotazione del servizio secondo la Vostra necessità e a Vostra richiesta"
+      }
+    },
+    "storePageText": {
+      "header": "APERTI",
+      "mainSection": {
+        "title": "SIAMO APERTI",
+        "smallTitle": "CONTATTACI",
+        "open": {
+          "openingHoursMondayToFriday": "5:00 AM to 8:00 PM",
+          "openingHoursSaturday": "7:00 AM to 5:00 PM",
+          "openingHoursSunday": "Chiuso",
+          "monday": "Lunedì",
+          "tuesday": "Martedì",
+          "wednesday": "Mercoledì",
+          "thursday": "Giovedì",
+          "friday": "Venerdì",
+          "saturday": "Sabato",
+          "sunday": "Domenica"
+        }
+      },
+      "middleSection": {
+        "title": "RIGUARDO IL NOSTRO OBIETTIVO",
+        "smallTitle": "PULITO PROFONDO, SPLENDORE VISIBILE",
+        "descriptionPart1": "Il nostro obiettivo è migliorare la vita dei nostri clienti",
+        "descriptionPart2": "La vita è troppo breve per pulire la tua casa! Il nostro team presso Clean Multiservices è qui per voi. Forniamo servizi di pulizia d'élite progettati per mantenere la tua casa splendente e bella in modo che tu possa concentrarti su cose che contano di più, come la tua famiglia e gli amici."
+      }
+    },
+    "contactPageText": {
+      "header": "CONTATTACI"
+    },
+    "contact": {
+      "text": "DOVE SIAMO",
+      "phone": "(+39) 24864235",
+      "email": "eriona.agolli@gmail.com"
+    },
+    "address": {
+      "street": "Via Alpignano 159/4 10098",
+      "city": "Rivoli (To), Italia"
+    },
+    "footerText": "Copyright © Eriona Agolli Clean Multiservices"
+  }
+}

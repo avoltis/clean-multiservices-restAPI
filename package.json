@@ -1,0 +1,28 @@
+{
+  "name": "clean-multiservices-rest-api",
+  "version": "1.0.0",
+  "description": "rest api for clean multiservices client",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoltis/clean-multiservices-restAPI.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Voltis Agolli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avoltis/clean-multiservices-restAPI/issues"
+  },
+  "homepage": "https://github.com/avoltis/clean-multiservices-restAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
